@@ -1,0 +1,29 @@
+<textbooks>
+    <area id="1">
+        <subject>Mathematics</subject>
+            <book id="1">
+                <title>Applied Linear Statistical Models</title>
+                <publisher>McGraw Hill</publisher>
+                <pages>1396</pages>
+                <author id="1">Michael Kutner</author>
+                <author id="2">William Li</author>
+                <author id="3">Christopher Nachtsheim</author>
+                <author id="4">John Neter</author>
+            </book>
+            <book id="2">
+                <title>Mathematical Proofs: A Transition to Advanced Mathematics</title>
+                <publisher>Pearson</publisher>
+                <pages>365</pages>
+                <author id="1">Gary Chartrand</author>
+                <author id="2">Ping Zhang</author>
+                <author id="3">Albert Polimeni</author>
+            </book>
+            <book id="3">
+                <title>Mathematical Statistics with Resampling and R</title>
+                <publisher>Wiley</publisher>
+                <pages>418</pages>
+                <author id="1">Laura Chihara</author>
+                <author id="2">Tim Hesterberg</author>
+            </book>
+    </area>
+</textbooks>
